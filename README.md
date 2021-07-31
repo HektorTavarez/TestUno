@@ -35,13 +35,12 @@
 
 ### Installation
 
-
- <ul>
-    <li> Clone the repo
+Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-  </li>
+
+ <ul>
     <li>Importar proyecto en Eclipse</li>
     <li>Cambiar Variables en archivo properties para conexión a BD </li>
     <li>Ejecutar en SQL Server  archivo creacionEstructuras.sql que se encuentra en la carpeta TOOLS</li>
